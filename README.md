@@ -1,6 +1,6 @@
 # AI Projects
 
-A collection of AI and machine learning projects built with Python, covering computer vision, natural language processing, AI agents and DevOps automation.
+A collection of AI and Machine Learning projects built with Python, covering computer vision, natural language processing, AI agents and DevOps automation.
 
 <br>
 
