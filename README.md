@@ -39,11 +39,11 @@ Sentiment analysis on the IMDB Movie Reviews dataset comparing three classical m
 
 **4. AI DevOps Log Analyzer (RAG):**
 
-An AI-powered log analysis system that reads server logs, detects anomalies, identifies root causes and generates a structured incident report using a RAG pipeline.
+An AI-powered log analysis system that reads server logs, detects anomalies, identifies root causes and generates a structured incident report using a RAG pipeline and deployed as a REST API endpoint using FastAPI.
 
-**Tech:** Groq (Llama 3), ChromaDB, Sentence Transformers
+**Tech:** Groq (Llama 3), ChromaDB, Sentence Transformers, FastAPI
 
-**Concepts:** RAG, Vector Search, Log Analysis, DevOps Automation
+**Concepts:** RAG, Vector Search, Log Analysis, DevOps Automation, API Deployment
 
 <br>
 
